@@ -17,3 +17,13 @@ Bu ödevde yapay zekâdan SQL kodlarını hazırlarken ve kontrol ederken yardı
 Özellikle tablolara kısıt ekleme, hatalı veri girişlerini test etme ve ilişkisel cebir sorularının SQL karşılıklarını yazma aşamalarında kullandım.
 
 Bazı sorgularda hata aldığımda nedenini anlamak ve düzeltmek için de yardım aldım. Son olarak örnek veriler oluşturup sorguların sonuçlarını kontrol ettim.
+
+## Ödev 3
+
+Bu ödevde ChatGPT'den SQL sorgularını hazırlarken ve PostgreSQL komutlarını çalıştırırken yardım aldım.
+
+Özellikle JOIN, GROUP BY ve NULL değerleriyle ilgili sorguları anlamak için kullandım. Sorguları kendi bilgisayarımda çalıştırıp sonuçlarını kontrol ettim.
+
+Türkçe karakter sorunu yaşadığımda UTF-8 ayarını düzeltmek için yardım aldım. Ayrıca UPDATE, ROLLBACK ve 23503 hata kodunu kontrol ederken de ChatGPT'den yararlandım.
+
+Önerilen komutları deneyerek doğru çalışıp çalışmadıklarını kendim kontrol ettim.
